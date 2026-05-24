@@ -5,7 +5,7 @@
 - 仕様書をベースに作成しました。
 
 ## ③アプリのデプロイURL
-- https://tatsuyamaeta.github.io/github_pages/
+- https://marochanchan.github.io/kadai00_cheese/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
